@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 500,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "Assets/Templates/Weekly note template",
+  "weeklyNoteFolder": "Timestamps/2025/00-Weekly",
+  "localeOverride": "en-au"
+}

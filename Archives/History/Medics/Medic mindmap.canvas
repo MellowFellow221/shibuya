@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"1edcd23c5921e441","type":"file","file":"Archives/History/Medics/WW1 Medic.md","x":-372,"y":-630,"width":420,"height":360},
+		{"id":"7bb8107e71a58abb","type":"text","text":"Soldiers lived in muddy areas filled with rats, rotting corpses, and exploding shells, but some couldn’t come to terms with the environment. As the war progressed a mental illness was caused by this, shell shock.","x":-609,"y":240,"width":525,"height":140},
+		{"id":"d1b2f59ef9f71d7c","type":"text","text":"Sufferers of shell shock could be hysterical, disoriented, paralyzed, and unable to obey orders","x":-570,"y":460,"width":448,"height":100,"color":"4"},
+		{"id":"cbf750a10e6827ee","type":"text","text":"Gas burned skin and irritated noses, throats, and lungs. It could cause death or paralysis within minutes, killing by asphyxiation","x":-1147,"y":240,"width":448,"height":140},
+		{"id":"c43aef9daca49235","type":"text","text":"Many thousands of gas victims suffered the painful effects of damaged lungs throughout their lives","x":-1142,"y":440,"width":438,"height":120,"color":"4"},
+		{"id":"7c0e697d2080fef4","type":"text","text":"Description of the types of injuries sustained during battle","x":-751,"y":0,"width":285,"height":100,"color":"1"},
+		{"id":"0860be5a60503ce3","type":"text","text":"Explain how medics have tried to manage the number of casualties","x":-1080,"y":-493,"width":405,"height":50,"color":"1"},
+		{"id":"973d9c8e8ab3a8c9","type":"text","text":"Conditions of a medic in the trenches","x":244,"y":-200,"width":285,"height":80,"color":"1"},
+		{"id":"0ea0ccf975ba5fbf","type":"text","text":"Constantly dealing with masses of injuries and death without the ability to save patients","x":80,"y":195,"width":392,"height":90},
+		{"id":"121edb27d22c56cc","type":"text","text":"[Private Clarence C. Moore](https://www.ncpedia.org/wwi-medicine-battlefield) was a stretcher bearer in the Hindenburg Line for about half a day. “We had to step on these dead soldiers to keep from going in the water and mud so deep and throwing the wounded off the stretcher. . . .” ","x":529,"y":170,"width":565,"height":140},
+		{"id":"e049e3cf9bc7fa2c","type":"text","text":"The British army developed a complex triage (transport and assignment system for the injured)","x":-1267,"y":-300,"width":516,"height":100},
+		{"id":"5cd1884f34e78f37","type":"text","text":"Triage is the practice of sorting casualties (sick and wounded people) into categories of priority for treatment, and it's still used in hospitals today.","x":-1328,"y":-87,"width":497,"height":137},
+		{"id":"e3c3b7b8c481b118","type":"text","text":"The wounded were sorted and moved along a medical chain via a transport network that included:\n- stretcher bearers\n- horse-drawn wagons\n- motorised ambulances\n- ambulance trains\n- canal barges\n- hospital ships\n","x":-1680,"y":163,"width":475,"height":277},
+		{"id":"6f8b4d8fc1734edf","type":"text","text":"Assessment of how successful they have been in managing the circumstances","x":359,"y":-718,"width":341,"height":88,"color":"1"},
+		{"id":"6d10991ffa2ffdd1","type":"text","text":"General sentiment amongst the medical personnel","x":-501,"y":-1040,"width":379,"height":88,"color":"1"},
+		{"id":"730381dc6df2b50d","type":"text","text":"Usually located in rear trenches, the battalion's medical officer and other medical staff would:\n- assess the wounded soldiers\n- change bandages\n- give morphine as a painkiller\nThen a doctor would:\n- classify the patients according to the type of care needed\n- send them on further behind the line for more treatment","x":-1960,"y":-237,"width":457,"height":337},
+		{"id":"f2a6127213a51431","type":"file","file":"Archives/History/Medics/Medics managing the casualties.md","x":-1800,"y":-700,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ff35c7329cefddb5","fromNode":"973d9c8e8ab3a8c9","fromSide":"bottom","toNode":"121edb27d22c56cc","toSide":"top"},
+		{"id":"181bcffaa751800f","fromNode":"7c0e697d2080fef4","fromSide":"bottom","toNode":"cbf750a10e6827ee","toSide":"top"},
+		{"id":"ab360e15b4ab2771","fromNode":"cbf750a10e6827ee","fromSide":"bottom","toNode":"c43aef9daca49235","toSide":"top"},
+		{"id":"0b372c5f06c8013a","fromNode":"7c0e697d2080fef4","fromSide":"bottom","toNode":"7bb8107e71a58abb","toSide":"top"},
+		{"id":"109ddd4abba032fb","fromNode":"7bb8107e71a58abb","fromSide":"bottom","toNode":"d1b2f59ef9f71d7c","toSide":"top"},
+		{"id":"643497d66cf429c0","fromNode":"973d9c8e8ab3a8c9","fromSide":"bottom","toNode":"0ea0ccf975ba5fbf","toSide":"top"},
+		{"id":"18d12c693b6be9a3","fromNode":"1edcd23c5921e441","fromSide":"bottom","toNode":"7c0e697d2080fef4","toSide":"top"},
+		{"id":"ca1211ddc9169e40","fromNode":"1edcd23c5921e441","fromSide":"left","toNode":"0860be5a60503ce3","toSide":"top"},
+		{"id":"38105613400e8397","fromNode":"1edcd23c5921e441","fromSide":"bottom","toNode":"973d9c8e8ab3a8c9","toSide":"top"},
+		{"id":"66d459acda134ac3","fromNode":"0860be5a60503ce3","fromSide":"bottom","toNode":"e049e3cf9bc7fa2c","toSide":"top"},
+		{"id":"c6a7de95fc07d7c4","fromNode":"e049e3cf9bc7fa2c","fromSide":"bottom","toNode":"5cd1884f34e78f37","toSide":"top"},
+		{"id":"22d8af84f61f056f","fromNode":"5cd1884f34e78f37","fromSide":"bottom","toNode":"e3c3b7b8c481b118","toSide":"top"},
+		{"id":"d1c2e637c7885a4b","fromNode":"0860be5a60503ce3","fromSide":"left","toNode":"f2a6127213a51431","toSide":"right"}
+	]
+}

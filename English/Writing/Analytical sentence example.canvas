@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b240bedcd502390a","type":"text","text":"MOB: But they've got nits and lice and pimples and germs!","x":-279,"y":-355,"width":480,"height":70,"color":"1"},
+		{"id":"dfac532a3a52dc83","type":"text","text":"Polysyndeton and chorus and exclamation.","x":-221,"y":-225,"width":365,"height":60},
+		{"id":"cd2065dd7b53f959","type":"text","text":"Does that","x":-366,"y":-5,"width":145,"height":60,"color":"4"},
+		{"id":"17f42341086330b9","type":"text","text":"Doing that","x":-111,"y":-5,"width":145,"height":60,"color":"3"},
+		{"id":"c7df35f7fc5bf5c3","type":"text","text":"Doing that","x":120,"y":-5,"width":165,"height":60,"color":"#8a0085"},
+		{"id":"4982b433471022bb","type":"text","text":"Cementing the idea of the amount of discrimination faced by the less fortuante who are viewed collectively in a negative light","x":201,"y":219,"width":360,"height":136,"color":"#8a0085"},
+		{"id":"5b01ffd7d93eb1b2","type":"text","text":"Exploring the prejudice towards refuges and asylum seekers present in contemporary Australia","x":-245,"y":219,"width":414,"height":89,"color":"3"},
+		{"id":"d3d6ee21b4ae7e2e","type":"text","text":"Illustrates the mobs hate towards the smuggles.","x":-560,"y":219,"width":281,"height":89,"color":"4"}
+	],
+	"edges":[
+		{"id":"0876e0b0437bdea1","fromNode":"b240bedcd502390a","fromSide":"bottom","toNode":"dfac532a3a52dc83","toSide":"top"},
+		{"id":"4ec4933300c3e56e","fromNode":"dfac532a3a52dc83","fromSide":"bottom","toNode":"cd2065dd7b53f959","toSide":"top"},
+		{"id":"60650ca24c32c124","fromNode":"dfac532a3a52dc83","fromSide":"bottom","toNode":"17f42341086330b9","toSide":"top"},
+		{"id":"7e8013755674542d","fromNode":"dfac532a3a52dc83","fromSide":"bottom","toNode":"c7df35f7fc5bf5c3","toSide":"top"},
+		{"id":"b69a43ff45b252f7","fromNode":"cd2065dd7b53f959","fromSide":"bottom","toNode":"d3d6ee21b4ae7e2e","toSide":"top"},
+		{"id":"4ac96a9ced25dc27","fromNode":"17f42341086330b9","fromSide":"bottom","toNode":"5b01ffd7d93eb1b2","toSide":"top"},
+		{"id":"4a960ce382da5d2f","fromNode":"c7df35f7fc5bf5c3","fromSide":"bottom","toNode":"4982b433471022bb","toSide":"top"}
+	]
+}

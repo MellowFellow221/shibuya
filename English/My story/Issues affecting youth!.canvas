@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"30b7dd32d0a0bd7a","type":"text","text":"Issues affecting youth!","x":-120,"y":-30,"width":250,"height":60,"color":"6"},
+		{"id":"ae8871ab30e1762e","type":"text","text":"Future goals","x":280,"y":30,"width":250,"height":60},
+		{"id":"037f89e95327ee1a","type":"text","text":"Climate change","x":-500,"y":-30,"width":250,"height":60,"color":"5"},
+		{"id":"617cf954d6a90dfc","type":"text","text":"Irreversibly","x":-840,"y":-30,"width":250,"height":60},
+		{"id":"8d7b03dd3b91fcff","type":"text","text":"Social life/relationship","x":280,"y":-30,"width":250,"height":60},
+		{"id":"621e21b7512f7e5d","type":"text","text":"Drugs","x":280,"y":90,"width":250,"height":60},
+		{"id":"b24a99d84cd1ab7c","type":"text","text":"Lack of recourse","x":-840,"y":-90,"width":250,"height":60},
+		{"id":"f72643bfb17997c6","type":"text","text":"Future generations","x":-840,"y":30,"width":250,"height":60},
+		{"id":"fd955f636b41580f","type":"text","text":"Loss of childhood","x":-120,"y":180,"width":250,"height":60},
+		{"id":"8c8df74eae878d97","type":"text","text":"School stress","x":130,"y":180,"width":250,"height":60},
+		{"id":"9066f38356ae4b3c","type":"text","text":"Racial discrimination","x":-370,"y":180,"width":250,"height":60},
+		{"id":"4468f358a25481ff","type":"text","text":"Money/wealth","x":-120,"y":-280,"width":250,"height":60},
+		{"id":"852b34e51f6a32d9","type":"text","text":"Communism","x":130,"y":-280,"width":250,"height":60},
+		{"id":"71d16ee98461a9ce","type":"text","text":"Social structure","x":-375,"y":-280,"width":250,"height":60},
+		{"id":"b3a6b29bb2ce42ff","type":"text","text":"Social media","x":280,"y":-150,"width":250,"height":60},
+		{"id":"6db738d1216115d0","type":"text","text":"Body image","x":620,"y":-250,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1502518b0d1289b3","fromNode":"30b7dd32d0a0bd7a","fromSide":"right","toNode":"b3a6b29bb2ce42ff","toSide":"left"},
+		{"id":"cfd6a030597a662a","fromNode":"30b7dd32d0a0bd7a","fromSide":"right","toNode":"8d7b03dd3b91fcff","toSide":"left"},
+		{"id":"d7765c5202f58505","fromNode":"30b7dd32d0a0bd7a","fromSide":"right","toNode":"ae8871ab30e1762e","toSide":"left"},
+		{"id":"44a1e09a4b5974e1","fromNode":"30b7dd32d0a0bd7a","fromSide":"right","toNode":"621e21b7512f7e5d","toSide":"left"},
+		{"id":"b8d6b3b3d8524500","fromNode":"30b7dd32d0a0bd7a","fromSide":"bottom","toNode":"fd955f636b41580f","toSide":"top"},
+		{"id":"73c9a4cf744eb55c","fromNode":"b3a6b29bb2ce42ff","fromSide":"right","toNode":"6db738d1216115d0","toSide":"left"},
+		{"id":"5a2d83e8820c18f5","fromNode":"30b7dd32d0a0bd7a","fromSide":"top","toNode":"852b34e51f6a32d9","toSide":"bottom"},
+		{"id":"2a6be837e7b44be6","fromNode":"30b7dd32d0a0bd7a","fromSide":"bottom","toNode":"8c8df74eae878d97","toSide":"top"},
+		{"id":"4ddd17f85752f3a5","fromNode":"30b7dd32d0a0bd7a","fromSide":"left","toNode":"037f89e95327ee1a","toSide":"right"},
+		{"id":"a9ad489f6a886faf","fromNode":"037f89e95327ee1a","fromSide":"left","toNode":"b24a99d84cd1ab7c","toSide":"right"},
+		{"id":"e143b61d68fda150","fromNode":"037f89e95327ee1a","fromSide":"left","toNode":"617cf954d6a90dfc","toSide":"right"},
+		{"id":"5b6bafd368e32c58","fromNode":"037f89e95327ee1a","fromSide":"left","toNode":"f72643bfb17997c6","toSide":"right"},
+		{"id":"f3d877526f9d4d43","fromNode":"30b7dd32d0a0bd7a","fromSide":"top","toNode":"4468f358a25481ff","toSide":"bottom"},
+		{"id":"ffd753190afa0f24","fromNode":"30b7dd32d0a0bd7a","fromSide":"bottom","toNode":"9066f38356ae4b3c","toSide":"top"},
+		{"id":"33e08a449f45924b","fromNode":"30b7dd32d0a0bd7a","fromSide":"top","toNode":"71d16ee98461a9ce","toSide":"bottom"}
+	]
+}
