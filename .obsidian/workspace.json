@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1688d2297b5500",
+        "id": "44b2bbf5ab710624",
         "type": "tabs",
         "children": [
           {
-            "id": "c762c7b07b9aae73",
+            "id": "3c33fa99bbb38d7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/Assessment mark + weight.md",
+                "file": "English/Shakesphere/Macbeth.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Assessment mark + weight"
+              "title": "Macbeth"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/Assessment mark + weight.md",
+                "file": "English/Shakesphere/Macbeth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assessment mark + weight"
+              "title": "Outline of Macbeth"
             }
           },
           {
@@ -197,15 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12c9350fffdb3a21",
+  "active": "3c33fa99bbb38d7a",
   "lastOpenFiles": [
+    "English/Shakesphere/Shakespeare retold.md",
+    "English/Shakesphere/Macbeth.md",
+    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/06-June/2025-06-01.md",
     "Timestamps/2025/05-May/2025-05-01.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
     "Timestamps/2025/04-April/2025-04-06.md",
     "Timestamps/2024/00-Weekly/2024-W32.md",
-    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/06-June/2025-06-04.md",
     "Science/Electricity/Batteries.md",
     "Science/Chemical equations/Neutralisation reactions.md",
@@ -228,8 +230,6 @@
     "English/Writing/To draw a home.md",
     "English/Writing/The book thief.md",
     "English/Writing/Tales from the Arabian Nights.md",
-    "English/Writing/Pixar in a Box.md",
-    "English/Speculative fiction/Knowledge.md",
     "Archives/History/Medics/Medic mindmap.canvas",
     "Commerce/Law",
     "Science/Motion and waves",
