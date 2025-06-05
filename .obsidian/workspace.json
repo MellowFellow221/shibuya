@@ -4,83 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "44b2bbf5ab710624",
+        "id": "7767addff298cd55",
         "type": "tabs",
         "children": [
           {
-            "id": "3c33fa99bbb38d7a",
+            "id": "460cc9d787e324c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Shakesphere/Macbeth.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Macbeth"
-            }
-          },
-          {
-            "id": "cb9c7d0af26346d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archives/Geography/Community health assessment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Community health assessment"
-            }
-          },
-          {
-            "id": "bfbed6752e9408ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archives/Geography/Environmental worldviews.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Environmental worldviews"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +144,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/Geography/Environmental worldviews.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Environmental worldviews"
+              "title": "Outline"
             }
           },
           {
@@ -246,12 +182,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfbed6752e9408ed",
+  "active": "460cc9d787e324c3",
   "lastOpenFiles": [
+    "English/Shakesphere/Macbeth.md",
     "Archives/Geography/Community health assessment.md",
     "Archives/Geography/Environmental worldviews.md",
     "English/Shakesphere/Ides of March.md",
-    "English/Shakesphere/Macbeth.md",
     "English/Shakesphere/Shakespeare retold.md",
     "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/06-June/2025-06-01.md",
