@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7767addff298cd55",
+        "id": "d3aa537f70b9e0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "460cc9d787e324c3",
+            "id": "5e1451ab639e307d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Science/Chemical equations/Chemical reactions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chemical reactions"
             }
           }
         ]
@@ -144,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Science/Chemical equations/Chemical reactions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chemical reactions"
             }
           },
           {
@@ -169,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +197,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "460cc9d787e324c3",
+  "active": "5e1451ab639e307d",
   "lastOpenFiles": [
+    "Science/Chemical equations/Balancing equations.md",
+    "Timestamps/2025/2025-06-05.md",
+    "Science/Chemical equations/Combustion reactions.md",
+    "Science/Chemical equations/Chemical reactions.md",
+    "Science/Chemical equations/Single displacement reactions.md",
+    "Science/Body systems/Lines of defence.md",
+    "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
+    "Science/Chemical equations/Synthesis reactions.md",
+    "Science/Chemical equations/Precipitation reactions.md",
+    "Science/Chemical equations/Neutralisation reactions.md",
+    "Science/Chemical equations/Endothermic and exothermic reactions.md",
+    "Science/Chemical equations/Double displacement reactions.md",
+    "Science/Motion and waves/Light.md",
+    "English/Shakesphere/Ides of March.md",
     "English/Shakesphere/Macbeth.md",
+    "English/Shakesphere/Shakespeare retold.md",
+    "Science/Motion and waves/Waves.md",
+    "Assets/Attachments/Light-1749098025940.webp",
+    "Timestamps/Assessment mark + weight.md",
     "Archives/Geography/Community health assessment.md",
     "Archives/Geography/Environmental worldviews.md",
-    "English/Shakesphere/Ides of March.md",
-    "English/Shakesphere/Shakespeare retold.md",
-    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/06-June/2025-06-01.md",
     "Timestamps/2025/05-May/2025-05-01.md",
     "Timestamps/2025/06-June",
@@ -198,23 +228,10 @@
     "Timestamps/2024/00-Weekly/2024-W32.md",
     "Timestamps/2025/06-June/2025-06-04.md",
     "Science/Electricity/Batteries.md",
-    "Science/Chemical equations/Neutralisation reactions.md",
     "Science/Chemical equations/Decomposition reactions.md",
-    "Science/Chemical equations/Corrosion.md",
-    "Science/Chemical equations/Combustion reactions.md",
-    "Science/Chemical equations/Chemical reactions.md",
-    "Science/Chemical equations/Balancing equations.md",
-    "Timestamps/2025/06-June/2025-06-03.md",
-    "Science/Body systems/The Endocrine system.md",
-    "Science/Body systems/Nervous System.md",
-    "Science/Body systems/Lines of defence.md",
     "English/Writing/Analytical sentence example.canvas",
-    "English/Meta/Essay structure.md",
-    "English/Meta/Intertextuality.md",
     "English/Shining a new (stage) light/Analytical sentence example.canvas",
     "English/My story/Issues affecting youth!.canvas",
-    "English/Writing/Writing a memoir.md",
-    "English/Writing/What makes us human.md",
     "Archives/History/Medics/Medic mindmap.canvas",
     "Commerce/Law",
     "Science/Motion and waves",
@@ -227,8 +244,6 @@
     "Assets/Attachments/Tales from the Arabian Nights-20241013212225022.webp",
     "Assets/Attachments/Tales from the Arabian Nights-20241013211642916 1.webp",
     "Assets/Attachments/Tales from the Arabian Nights-20241013211642916.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241013211411845 1.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241013211411845.webp",
     "Archives/History",
     "Archives/Geography",
     "Archives/PDHPE",
