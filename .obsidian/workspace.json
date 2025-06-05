@@ -55,8 +55,7 @@
               "title": "Ides of March"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "English/Shakesphere/Macbeth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ides of March"
+              "title": "Outline of Macbeth"
             }
           },
           {
@@ -222,10 +221,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb9c7d0af26346d4",
+  "active": "3c33fa99bbb38d7a",
   "lastOpenFiles": [
-    "English/Shakesphere/Macbeth.md",
     "English/Shakesphere/Ides of March.md",
+    "English/Shakesphere/Macbeth.md",
     "English/Shakesphere/Shakespeare retold.md",
     "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/06-June/2025-06-01.md",
