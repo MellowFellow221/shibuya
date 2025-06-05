@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, May 28th 2025, 9:50:30 am
-date modified: Thursday, May 29th 2025, 10:27:54 am
+date modified: Thursday, June 5th 2025, 11:13:51 am
 ---
 
 # Macbeth
@@ -56,22 +56,3 @@ Banquo represents a morally sound individual. He is rational and questions the w
 - Macbeth seems suddenly weary when Lady Macbeth dies. His reaction is strange - quiet, subdued and thoughtful.
 - His power and motivation seem to banish. It's as if Macbeth no longer sees any point trying to hold onto the kingship. He cannot understand why he ever wanted it.
 - He realises this is the end and his own death is near. We get the impression he now knows he will die, even though the witches seem to have told him otherwise. The strange thing is, he just seems to accept it.
-# The Filmmaker's Lens
-How does the cinematic medium enable composers to explore their unique perspective of common concepts?
-## Film Trailer - Viewing Questions
-*After watching the trailer...*
-- Can we infer the concepts the film will explore from its trailer?
-Yes, concepts such as loyalty, betrayal, power and corruption.
-- **Are there similarities in characters or settings?**
-Molly is similar to Lady Macbeth as she was a catalyst for major events, ended herself due to overwhelming guilt, love interest of the protagonist.
-Stephen plays a similar role as Macbeth having large amounts of ambition, starting with ethical actions before slowing radicalising, stabs his best friend (Paul) in the back.
-Duffy is like the witches driving Stephens ambition and giving him a vision to work to, which corrupts him and causes him to betray those around him.
-- **How do these concepts connect with those that are broached in the play?**
-Concepts like loyalty, betrayal, ambition and how power corrupts directly connect between the film and the play. With characters playing similar roles between the movie and the play.
-- **What parallels can you draw between the plot of the film and that of the play?**
-The concepts and themes are similar with both focusing on a main character told about a prosperous future which causes them to have a high level of ambition later ending with them being corrupted and betraying everyone who they cared about. Characters also hold similar relevance, Molly playing Lady Macbeth's role, Stephen playing Macbeth's role and Duffy playing the role of the witches.
-# Context - Ides of March
-The **Ides of March** is the day on the Roman calendar marked as the *Idus*, roughly the midpoint of a month, of Martius, corresponding to 15 March on the Gregorian calendar. It was marked by several major religious observance. In 44 BC, it became notorious as the date of the assassination of Julius Caesar, which made the Ides of March a turning point in Roman history.
-Julius Caesar was assassinated by a group of senators during a meeting of the Senate at the Curia of Pompey of the Theatre of Pompey in Rome where senators stabbed Caesar 23 time. They claimed to be acting over fears that Caesar's unprecedented concentration of power during his dictatorship was undermining the Roman Republic. At least 60 to 70 senators were party to the conspiracy, led by Marcus Junius Brutus, Gaius Cassius Longinus, and Decimus Junius Brutus Albinus. Despite the death of Caesar, the conspirators were unable to restore the institutions of the Republic. The ramifications of the assassination led to his martyrdom, the Liberators' civil war and ultimately to the Principate period of the Roman Empire.
-- **How might this historical event connect with the themes explored in Shakespeare's Macbeth**
-Themes such as loyalty, betrayal and a grab for power are shared by both the historical event and Macbeth.
