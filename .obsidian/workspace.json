@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Archives/Geography/Community health assessment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ides of March"
+              "title": "Community health assessment"
+            }
+          },
+          {
+            "id": "bfbed6752e9408ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archives/Geography/Environmental worldviews.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Environmental worldviews"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Archives/Geography/Environmental worldviews.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ides of March"
+              "title": "Outline of Environmental worldviews"
             }
           },
           {
@@ -222,10 +246,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb9c7d0af26346d4",
+  "active": "bfbed6752e9408ed",
   "lastOpenFiles": [
-    "English/Shakesphere/Macbeth.md",
+    "Archives/Geography/Community health assessment.md",
+    "Archives/Geography/Environmental worldviews.md",
     "English/Shakesphere/Ides of March.md",
+    "English/Shakesphere/Macbeth.md",
     "English/Shakesphere/Shakespeare retold.md",
     "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/06-June/2025-06-01.md",
@@ -253,8 +279,6 @@
     "English/My story/Issues affecting youth!.canvas",
     "English/Writing/Writing a memoir.md",
     "English/Writing/What makes us human.md",
-    "English/Writing/To draw a home.md",
-    "English/Writing/The book thief.md",
     "Archives/History/Medics/Medic mindmap.canvas",
     "Commerce/Law",
     "Science/Motion and waves",

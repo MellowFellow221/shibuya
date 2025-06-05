@@ -1,6 +1,6 @@
 ---
 date created: Thursday, June 5th 2025, 11:13:24 am
-date modified: Thursday, June 5th 2025, 11:49:55 am
+date modified: Thursday, June 5th 2025, 12:04:07 pm
 ---
 
 # The Filmmaker's Lens
@@ -41,6 +41,7 @@ Themes such as loyalty, betrayal and a grab for power are shared by both the his
 |                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                             |                              |       |          |                                          |
 |                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                             |                              |       |          |                                          |
 |                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                             |                              |       |          |                                          |
+
 ## Themes
 - The corruptive nature of power and ambition
 - The consequences of a guilty conscience
