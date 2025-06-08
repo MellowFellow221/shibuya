@@ -142,7 +142,7 @@
       "list-end-style": "."
     },
     "proper-ellipsis": {
-      "enabled": false
+      "enabled": true
     },
     "quote-style": {
       "enabled": true,
@@ -161,7 +161,7 @@
       "enabled": true
     },
     "remove-multiple-spaces": {
-      "enabled": true
+      "enabled": false
     },
     "strong-style": {
       "enabled": true,
