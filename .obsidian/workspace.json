@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Timestamps/2025/2025-06-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ides of March"
+              "title": "2025-06-07"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Timestamps/2025/2025-06-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ides of March"
+              "title": "Outline of 2025-06-07"
             }
           },
           {
@@ -199,8 +199,10 @@
   },
   "active": "5e1451ab639e307d",
   "lastOpenFiles": [
-    "English/Shakesphere/Macbeth.md",
+    "Timestamps/2025/2025-06-06.md",
+    "Timestamps/2025/2025-06-07.md",
     "English/Shakesphere/Ides of March.md",
+    "English/Shakesphere/Macbeth.md",
     "English/Meta/Themes and concepts.md",
     "English/Meta/Intertextuality.md",
     "English/Meta/Essay structure.md",
@@ -227,8 +229,6 @@
     "Timestamps/2025/05-May/2025-05-01.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
-    "Timestamps/2025/04-April/2025-04-06.md",
-    "Timestamps/2024/00-Weekly/2024-W32.md",
     "English/Writing/Analytical sentence example.canvas",
     "English/Shining a new (stage) light/Analytical sentence example.canvas",
     "English/My story/Issues affecting youth!.canvas",
