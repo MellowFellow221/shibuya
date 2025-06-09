@@ -11,10 +11,24 @@
             "id": "57beac443abee63a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/2025-06-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-06-09"
             }
           }
         ]
@@ -144,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Timestamps/2025/2025-06-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-06-09"
             }
           },
           {
@@ -184,6 +199,7 @@
   },
   "active": "57beac443abee63a",
   "lastOpenFiles": [
+    "Timestamps/2025/2025-06-09.md",
     "Timestamps/2025/00-Weekly/2025-W23.md",
     "Timestamps/2025/2025-06-08.md",
     "Timestamps/2025/2025-06-07.md",
@@ -211,7 +227,6 @@
     "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/Assessment mark + weight.md",
     "Archives/Geography/Community health assessment.md",
-    "Archives/Geography/Environmental worldviews.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
     "English/Writing/Analytical sentence example.canvas",
