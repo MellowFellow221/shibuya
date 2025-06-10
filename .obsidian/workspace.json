@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Timestamps/2025/2025-06-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ides of March"
+              "title": "2025-06-10"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26fc8988c88881be",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Timestamps/2025/2025-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ides of March"
+              "title": "Backlinks for 2025-06-10"
             }
           },
           {
@@ -147,8 +146,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5331e11e73faec08",
@@ -160,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Timestamps/2025/2025-06-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ides of March"
+              "title": "Outline of 2025-06-10"
             }
           },
           {
@@ -186,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265,
-    "collapsed": true
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +199,8 @@
   },
   "active": "ab8013781a33ecfc",
   "lastOpenFiles": [
+    "English/Shakesphere/Ides of March.md",
+    "Timestamps/2025/2025-06-10.md",
     "Science/Motion and waves/Waves.md",
     "Science/Motion and waves/Light.md",
     "Science/Motion and waves/Sound.md",
@@ -231,7 +230,6 @@
     "Archives/Enterprise/Preliminary ROSA/Storyboard ideas.md",
     "Archives/Enterprise/Preliminary ROSA/Report.md",
     "Archives/Enterprise/Preliminary ROSA/Preliminary ROSA overview.md",
-    "Commerce/Business/Create a business.md",
     "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
     "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
