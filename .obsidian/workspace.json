@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1e3f2beee39525",
+        "id": "115d7af298750af1",
         "type": "tabs",
         "children": [
           {
-            "id": "57beac443abee63a",
+            "id": "ab8013781a33ecfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/2025-06-09.md",
+                "file": "English/Shakesphere/Ides of March.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-09"
+              "title": "Ides of March"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "26fc8988c88881be",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commerce/Employment - Career Choice.md",
+                "file": "English/Shakesphere/Ides of March.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Employment - Career Choice"
+              "title": "Backlinks for Ides of March"
             }
           },
           {
@@ -146,7 +147,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5331e11e73faec08",
@@ -158,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/2025/2025-06-09.md",
+                "file": "English/Shakesphere/Ides of March.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-09"
+              "title": "Outline of Ides of March"
             }
           },
           {
@@ -184,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265
+    "width": 265,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,42 +200,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57beac443abee63a",
+  "active": "ab8013781a33ecfc",
   "lastOpenFiles": [
-    "Timestamps/2025/2025-06-09.md",
-    "Timestamps/2025/00-Weekly/2025-W23.md",
-    "Timestamps/2025/2025-06-08.md",
-    "Timestamps/2025/2025-06-07.md",
-    "Timestamps/2025/2025-06-06.md",
-    "English/Shakesphere/Ides of March.md",
-    "English/Shakesphere/Macbeth.md",
-    "English/Meta/Themes and concepts.md",
-    "English/Meta/Intertextuality.md",
-    "English/Meta/Essay structure.md",
-    "Science/Chemical equations/Chemical reactions.md",
-    "Science/Chemical equations/Balancing equations.md",
-    "Timestamps/2025/2025-06-05.md",
-    "Science/Chemical equations/Combustion reactions.md",
-    "Science/Chemical equations/Single displacement reactions.md",
-    "Science/Body systems/Lines of defence.md",
-    "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
-    "Science/Chemical equations/Synthesis reactions.md",
-    "Science/Chemical equations/Precipitation reactions.md",
-    "Science/Chemical equations/Neutralisation reactions.md",
-    "Science/Chemical equations/Endothermic and exothermic reactions.md",
-    "Science/Chemical equations/Double displacement reactions.md",
-    "Science/Motion and waves/Light.md",
-    "English/Shakesphere/Shakespeare retold.md",
     "Science/Motion and waves/Waves.md",
-    "Assets/Attachments/Light-1749098025940.webp",
-    "Timestamps/Assessment mark + weight.md",
+    "Science/Motion and waves/Light.md",
+    "Science/Motion and waves/Sound.md",
+    "Assets/Attachments/Waves-1749519251403.webp",
+    "Assets/Attachments/Waves-1749519213381.webp",
+    "Assets/Attachments/Waves-1749519209083.webp",
+    "Assets/Attachments/Waves-1749518442539.webp",
+    "Science/Chemical equations/Chemical reactions.md",
+    "Archives/Yearly study guide.md",
+    "Archives/Subject selection.md",
+    "Archives/Strive video script.md",
+    "Archives/Simple interest.md",
+    "Archives/Compound interest.md",
+    "Archives/Application for peer support.md",
+    "Archives/History/Rise of the Nazi party.md",
+    "Archives/History/Medics/Types of injuries in war.md",
+    "Archives/History/Medics/Medic mindmap.canvas",
+    "Archives/Geography/Urban research task.md",
+    "Archives/Geography/Public space crisis.md",
+    "Archives/Geography/Environmental worldviews.md",
     "Archives/Geography/Community health assessment.md",
+    "Archives/Enterprise/JacksonSCRIPT.md",
+    "Archives/Enterprise/Enterprise study.md",
+    "Archives/Enterprise/Social computing/Social computing.md",
+    "Archives/Enterprise/Social computing/Networking systems film.md",
+    "Archives/Enterprise/Social computing/Mental illness film incursion.md",
+    "Archives/Enterprise/Preliminary ROSA/Storyboard ideas.md",
+    "Archives/Enterprise/Preliminary ROSA/Report.md",
+    "Archives/Enterprise/Preliminary ROSA/Preliminary ROSA overview.md",
+    "Commerce/Business/Create a business.md",
+    "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
+    "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
     "English/Writing/Analytical sentence example.canvas",
     "English/Shining a new (stage) light/Analytical sentence example.canvas",
     "English/My story/Issues affecting youth!.canvas",
-    "Archives/History/Medics/Medic mindmap.canvas",
     "Commerce/Law",
     "Science/Motion and waves",
     "Science/Chemical equations",
@@ -240,10 +246,6 @@
     "Assets/Attachments/The business cycle-1742711117819.webp",
     "Assets/Attachments/Tales from the Arabian Nights-20241014212133555 1.webp",
     "Assets/Attachments/Tales from the Arabian Nights-20241014212133555.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241013212225022 1.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241013212225022.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241013211642916 1.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241013211642916.webp",
     "Archives/History",
     "Archives/Geography",
     "Archives/PDHPE",

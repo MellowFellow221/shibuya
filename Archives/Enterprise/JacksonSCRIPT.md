@@ -1,6 +1,6 @@
 ---
 date created: Sunday, June 1st 2025, 2:00:07 pm
-date modified: Sunday, June 1st 2025, 2:04:49 pm
+date modified: Tuesday, June 10th 2025, 9:41:38 am
 ---
 
 # Introduction
@@ -145,7 +145,7 @@ To connect our home network to the wider internet, in our neighbourhood the NBN 
 
 [ PHOTOSENSITIVITY WARNING! ]
 
-Fibre-Optic cables connect the headend/distribution centre to a node in the neighbourhood. Fibre-Optic cables are used since they are impenetrable to interference and use pulses of light ...(pause, show flashing light) to allow for extremely fast data transfer speeds over large distances. The NBN then utilised previously existing TV (Coaxial) cables ... (pause, show to bring internet to homes.
+Fibre-Optic cables connect the headend/distribution centre to a node in the neighbourhood. Fibre-Optic cables are used since they are impenetrable to interference and use pulses of light …(pause, show flashing light) to allow for extremely fast data transfer speeds over large distances. The NBN then utilised previously existing TV (Coaxial) cables … (pause, show to bring internet to homes.
 
 Within our network, we mainly utilize WIFI on the 2.4/5GHz bands to connect our various endpoint devices (laptops, mobile phones, chromecasts) to the internet. WiFi uses omnidirectional radio waves to broadcast a signal, which can be connected to by any device within its range.
 
