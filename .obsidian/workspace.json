@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Rise of the Nazi party"
             }
-          },
-          {
-            "id": "30c37b22e0d6be21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archives/History/Vietnam war essay.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vietnam war essay"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/History/Vietnam war essay.md",
+                "file": "Archives/History/Rise of the Nazi party.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vietnam war essay"
+              "title": "Outline of Rise of the Nazi party"
             }
           },
           {
@@ -222,10 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30c37b22e0d6be21",
+  "active": "6e692c6f5424ebbb",
   "lastOpenFiles": [
-    "Archives/History/Rise of the Nazi party.md",
+    "Timestamps/2025/2025-06-11.md",
     "Archives/History/Vietnam war essay.md",
+    "Archives/History/Rise of the Nazi party.md",
     "English/Shakesphere/Ides of March.md",
     "English/Shakesphere/Macbeth.md",
     "Timestamps/Assessment mark + weight.md",
@@ -254,7 +230,6 @@
     "Archives/Enterprise/Enterprise study.md",
     "Archives/Enterprise/Social computing/Social computing.md",
     "Archives/Enterprise/Social computing/Networking systems film.md",
-    "Archives/Enterprise/Social computing/Mental illness film incursion.md",
     "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
     "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
