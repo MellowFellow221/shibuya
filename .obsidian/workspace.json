@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a60b1e9e20a6e793",
+        "id": "3c45985c39819226",
         "type": "tabs",
         "children": [
           {
-            "id": "4d7b5ead7ac34e00",
+            "id": "6e692c6f5424ebbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Archives/History/Rise of the Nazi party.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ides of March"
+              "title": "Rise of the Nazi party"
+            }
+          },
+          {
+            "id": "30c37b22e0d6be21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archives/History/Vietnam war essay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vietnam war essay"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "26fc8988c88881be",
@@ -159,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Shakesphere/Ides of March.md",
+                "file": "Archives/History/Vietnam war essay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ides of March"
+              "title": "Outline of Vietnam war essay"
             }
           },
           {
@@ -185,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265,
-    "collapsed": true
+    "width": 265
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,11 +222,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d7b5ead7ac34e00",
+  "active": "30c37b22e0d6be21",
   "lastOpenFiles": [
+    "Archives/History/Rise of the Nazi party.md",
+    "Archives/History/Vietnam war essay.md",
+    "English/Shakesphere/Ides of March.md",
     "English/Shakesphere/Macbeth.md",
     "Timestamps/Assessment mark + weight.md",
-    "English/Shakesphere/Ides of March.md",
     "Timestamps/2025/2025-06-10.md",
     "Science/Motion and waves/Waves.md",
     "Science/Motion and waves/Light.md",
@@ -219,7 +244,6 @@
     "Archives/Simple interest.md",
     "Archives/Compound interest.md",
     "Archives/Application for peer support.md",
-    "Archives/History/Rise of the Nazi party.md",
     "Archives/History/Medics/Types of injuries in war.md",
     "Archives/History/Medics/Medic mindmap.canvas",
     "Archives/Geography/Urban research task.md",
@@ -231,7 +255,6 @@
     "Archives/Enterprise/Social computing/Social computing.md",
     "Archives/Enterprise/Social computing/Networking systems film.md",
     "Archives/Enterprise/Social computing/Mental illness film incursion.md",
-    "Archives/Enterprise/Preliminary ROSA/Storyboard ideas.md",
     "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
     "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
