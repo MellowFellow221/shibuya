@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c45985c39819226",
+        "id": "dff57314e8878ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "6e692c6f5424ebbb",
+            "id": "b7794d187786a832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/History/Rise of the Nazi party.md",
+                "file": "Science/Motion and waves/Sound.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rise of the Nazi party"
+              "title": "Sound"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/History/Rise of the Nazi party.md",
+                "file": "Science/Motion and waves/Sound.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rise of the Nazi party"
+              "title": "Outline of Sound"
             }
           },
           {
@@ -197,18 +197,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e692c6f5424ebbb",
+  "active": "b7794d187786a832",
   "lastOpenFiles": [
-    "Timestamps/2025/2025-06-11.md",
-    "Archives/History/Vietnam war essay.md",
-    "Archives/History/Rise of the Nazi party.md",
-    "English/Shakesphere/Ides of March.md",
-    "English/Shakesphere/Macbeth.md",
-    "Timestamps/Assessment mark + weight.md",
-    "Timestamps/2025/2025-06-10.md",
-    "Science/Motion and waves/Waves.md",
     "Science/Motion and waves/Light.md",
     "Science/Motion and waves/Sound.md",
+    "Timestamps/Assessment mark + weight.md",
+    "English/Shakesphere/Ides of March.md",
+    "English/Shakesphere/Macbeth.md",
+    "English/Shakesphere/Shakespeare retold.md",
+    "English/Shakesphere/Shakespearean comparative study.md",
+    "Archives/History/Rise of the Nazi party.md",
+    "Timestamps/2025/2025-06-11.md",
+    "Archives/History/Vietnam war essay.md",
+    "Timestamps/2025/2025-06-10.md",
+    "Science/Motion and waves/Waves.md",
     "Assets/Attachments/Waves-1749519251403.webp",
     "Assets/Attachments/Waves-1749519213381.webp",
     "Assets/Attachments/Waves-1749519209083.webp",
@@ -228,8 +230,6 @@
     "Archives/Geography/Community health assessment.md",
     "Archives/Enterprise/JacksonSCRIPT.md",
     "Archives/Enterprise/Enterprise study.md",
-    "Archives/Enterprise/Social computing/Social computing.md",
-    "Archives/Enterprise/Social computing/Networking systems film.md",
     "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
     "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",

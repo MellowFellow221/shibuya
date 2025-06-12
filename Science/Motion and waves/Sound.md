@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, June 10th 2025, 11:16:53 am
-date modified: Tuesday, June 10th 2025, 11:55:41 am
+date modified: Thursday, June 12th 2025, 11:39:44 am
 ---
 
 # Sound
@@ -25,3 +25,5 @@ Where, $f$ is the frequency of a sound wave and $T$ is the time period.
 The distance between the successive compression and rarefaction is know as the wavelength of a sound wave. The wavelength of the sound formula is given as follows:
 $$\lambda=\frac{v}{F}$$
 Where, $f$ is the frequency of a sound wave and $v$ is the velocity of the sound wave.
+### Amplitude of Sound
+The amplitude of the sound is the magnitude of the maximum disturbance in a sound wave. The amplitude is also a measure of energy.
