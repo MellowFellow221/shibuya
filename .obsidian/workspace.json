@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dff57314e8878ff3",
+        "id": "1e8eb2b85dbb0736",
         "type": "tabs",
         "children": [
           {
-            "id": "b7794d187786a832",
+            "id": "e258472157259609",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Science/Motion and waves/Sound.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sound"
+              "title": "New tab"
             }
           }
         ]
@@ -158,13 +144,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Motion and waves/Sound.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sound"
+              "title": "Outline"
             }
           },
           {
@@ -197,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7794d187786a832",
+  "active": "e258472157259609",
   "lastOpenFiles": [
-    "Science/Motion and waves/Light.md",
+    "Timestamps/2025/2025-06-12.md",
     "Science/Motion and waves/Sound.md",
+    "Science/Motion and waves/Light.md",
     "Timestamps/Assessment mark + weight.md",
     "English/Shakesphere/Ides of March.md",
     "English/Shakesphere/Macbeth.md",
@@ -229,7 +215,6 @@
     "Archives/Geography/Environmental worldviews.md",
     "Archives/Geography/Community health assessment.md",
     "Archives/Enterprise/JacksonSCRIPT.md",
-    "Archives/Enterprise/Enterprise study.md",
     "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
     "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
