@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8f461d3e876ba730",
+        "id": "5ff4777299ca26de",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a54f88e7aef433",
+            "id": "7b090d11bad2be3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Archives/Compound interest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Compound interest"
             }
           }
         ]
@@ -144,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Archives/Compound interest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Compound interest"
             }
           },
           {
@@ -182,12 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5a54f88e7aef433",
+  "active": "7b090d11bad2be3e",
   "lastOpenFiles": [
+    "Archives/Application for peer support.md",
+    "Archives/Simple interest.md",
+    "Archives/Compound interest.md",
+    "Science/Physics/Force and motion/Light.md",
+    "Science/Physics/Force and motion/Sound.md",
     "Science/Physics/Force and motion/Waves.md",
     "Science/Physics/Force and motion/Kinematics.md",
-    "Science/Physics/Force and motion/Sound.md",
-    "Science/Physics/Force and motion/Light.md",
     "Science/Chemisty",
     "Science/Physics",
     "Science/Biology",
@@ -210,9 +228,6 @@
     "Archives/Yearly study guide.md",
     "Archives/Subject selection.md",
     "Archives/Strive video script.md",
-    "Archives/Simple interest.md",
-    "Archives/Compound interest.md",
-    "Archives/Application for peer support.md",
     "Archives/History/Medics/Types of injuries in war.md",
     "Archives/History/Medics/Medic mindmap.canvas",
     "Archives/Geography/Urban research task.md",
