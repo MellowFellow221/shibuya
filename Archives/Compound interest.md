@@ -2,7 +2,7 @@
 alias:
   - Depreciation
 date created: Tuesday, March 11th 2025, 12:36:06 pm
-date modified: Friday, April 4th 2025, 4:51:56 pm
+date modified: Friday, June 13th 2025, 7:30:52 pm
 ---
 
 # Compound Interest and Depreciation
@@ -21,19 +21,23 @@ $t$ = time in years.
 By rearranging the original formula we can derive other variables.
 - Find the **Future Value** when we know a Principle Value, the Interest Rate and number of Periods.
 $$
-Fv=Pv(1+\frac{r}{n})^{nt}
+\Large
+Fv=Pv\left( 1+\frac{r}{n} \right)^{nt}
 $$
 - Find the **Principle Value** when we know a Final Value, the Interest Rate and number of Periods.
 $$
-Pv=\frac{Fv}{(1+\dfrac{r}{n})^{nt}}
+\Large
+Pv=\frac{Fv}{\left( 1+\frac{r}{n} \right)^{nt} }
 $$
 - Find the **Interest Rate** when we know the Principle Value, Future Value and number of Periods.
 $$
-r=\left(\frac{Fv}{Pv}\right)^\dfrac{1}{nt}-1
+\Large
+r=n\left[ \left( \frac{Fv}{Pv} \right) ^\frac{1}{nt} -1 \right]
 $$
 - Find the number of **Periods** when we know the Principle Value, Future Value and Interest Rate
 $$
-n = \frac{\ln(\frac{Fv}{Pv})}{\ln(1+r)}
+\Large
+n=\frac{\ln\left( \frac{Fv}{Pv} \right)}{\ln \left( 1+r \right)}
 $$
 # Example Questions
 1. Luke puts $\$1,000$ in an account that pays an annual interest of $9\%$. What will be the value of the account after (a) 10 years? (b) 20 years?

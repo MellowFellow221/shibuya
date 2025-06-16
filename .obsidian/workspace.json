@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "83be0b8162ea04dc",
+        "id": "83dea66655d36042",
         "type": "tabs",
         "children": [
           {
-            "id": "449b17a721ca2344",
+            "id": "4d1eb9b1c591b684",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Archives/Compound interest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Compound interest"
             }
           }
         ]
@@ -131,6 +145,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "6b923670f8756821",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ]
       },
@@ -144,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Archives/Compound interest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Compound interest"
             }
           },
           {
@@ -182,8 +207,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "449b17a721ca2344",
+  "active": "71f960809ca3420d",
   "lastOpenFiles": [
+    "Assets/Attachments/Pasted image 20240731114458.webp",
+    "Assets/Attachments/Pasted image 20240731114132.webp",
+    "conflict-files-obsidian-git.md",
+    "Archives/Compound interest.md",
+    "Archives/Simple interest.md",
+    "Archives/Application for peer support.md",
+    "Archives/Yearly study guide.md",
+    "Science/Physics/Force and motion/Newton's laws.md",
     "Assets/Attachments/Pasted image 20240516101510.webp",
     "Assets/Attachments/Pasted image 20240516101551.webp",
     "Assets/Attachments/Pasted image 20240523042451.webp",
@@ -192,9 +225,6 @@
     "Assets/Attachments/Motion and waves-1748484604688.webp",
     "Assets/Attachments/Motion and waves-1747888977967.webp",
     "Assets/Attachments/Motion and waves-1747888317561.webp",
-    "Assets/Attachments/Market segmentation and target markets-20240820111342725.webp",
-    "Assets/Attachments/Market segmentation and target markets-20240819144329724.webp",
-    "Assets/Attachments/Market segmentation and target markets-20240819143448605.webp",
     "Science/Physics/Force and motion/Waves.md",
     "Science/Physics/Force and motion/Kinematics.md",
     "Science/Physics/Force and motion/Sound.md",
@@ -214,17 +244,11 @@
     "Archives/History/Vietnam war essay.md",
     "Timestamps/2025/2025-06-10.md",
     "Science/Chemisty/Chemical equations/Chemical reactions.md",
-    "Archives/Yearly study guide.md",
     "Archives/Subject selection.md",
     "Archives/Strive video script.md",
-    "Archives/Simple interest.md",
-    "Archives/Compound interest.md",
-    "Archives/Application for peer support.md",
     "Archives/History/Medics/Types of injuries in war.md",
     "Archives/History/Medics/Medic mindmap.canvas",
     "Archives/Geography/Urban research task.md",
-    "Archives/Geography/Public space crisis.md",
-    "Archives/Geography/Environmental worldviews.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
     "English/Writing/Analytical sentence example.canvas",

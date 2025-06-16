@@ -1,6 +1,6 @@
 ---
 date created: Sunday, June 1st 2025, 2:30:49 pm
-date modified: Thursday, June 5th 2025, 9:39:41 pm
+date modified: Monday, June 16th 2025, 12:46:34 pm
 ---
 
 # Light
@@ -119,4 +119,4 @@ $$f=\frac{R}{2}$$
 - Camera lenses
 - Human eye lens
 - Projectors
-- ## Concave lens (diverging lens)
+## Concave Lens (diverging lens)
