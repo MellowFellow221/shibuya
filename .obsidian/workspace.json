@@ -11,10 +11,24 @@
             "id": "eb90ccc5e2bd5d58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Science/Physics/Force and motion/Sound.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sound"
             }
           }
         ]
@@ -144,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Science/Physics/Force and motion/Sound.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sound"
             }
           },
           {
@@ -184,12 +199,14 @@
   },
   "active": "eb90ccc5e2bd5d58",
   "lastOpenFiles": [
+    "Science/Physics/Force and motion/Newton's laws.md",
+    "Science/Physics/Force and motion/Light.md",
+    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/2025-06-14.md",
     "Timestamps/2025/2025-06-13.md",
     "Archives/Compound interest.md",
     "Archives/Application for peer support.md",
     "Archives/Simple interest.md",
-    "Science/Physics/Force and motion/Light.md",
     "Science/Physics/Force and motion/Sound.md",
     "Science/Physics/Force and motion/Waves.md",
     "Science/Physics/Force and motion/Kinematics.md",
@@ -197,7 +214,6 @@
     "Science/Physics",
     "Science/Biology",
     "Science/Physics/Kinematics",
-    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/2025-06-12.md",
     "English/Shakesphere/Ides of March.md",
     "English/Shakesphere/Macbeth.md",
@@ -218,7 +234,6 @@
     "Archives/History/Medics/Types of injuries in war.md",
     "Archives/History/Medics/Medic mindmap.canvas",
     "Archives/Geography/Urban research task.md",
-    "Archives/Geography/Public space crisis.md",
     "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
     "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
