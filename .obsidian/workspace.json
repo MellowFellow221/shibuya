@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f461d3e876ba730",
+        "id": "83be0b8162ea04dc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a54f88e7aef433",
+            "id": "449b17a721ca2344",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,8 +182,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5a54f88e7aef433",
+  "active": "449b17a721ca2344",
   "lastOpenFiles": [
+    "Assets/Attachments/Pasted image 20240516101510.webp",
+    "Assets/Attachments/Pasted image 20240516101551.webp",
+    "Assets/Attachments/Pasted image 20240523042451.webp",
+    "Assets/Attachments/Motion and waves-1748486403109.webp",
+    "Assets/Attachments/Motion and waves-1748485128562.webp",
+    "Assets/Attachments/Motion and waves-1748484604688.webp",
+    "Assets/Attachments/Motion and waves-1747888977967.webp",
+    "Assets/Attachments/Motion and waves-1747888317561.webp",
+    "Assets/Attachments/Market segmentation and target markets-20240820111342725.webp",
+    "Assets/Attachments/Market segmentation and target markets-20240819144329724.webp",
+    "Assets/Attachments/Market segmentation and target markets-20240819143448605.webp",
     "Science/Physics/Force and motion/Waves.md",
     "Science/Physics/Force and motion/Kinematics.md",
     "Science/Physics/Force and motion/Sound.md",
@@ -202,10 +213,6 @@
     "Timestamps/2025/2025-06-11.md",
     "Archives/History/Vietnam war essay.md",
     "Timestamps/2025/2025-06-10.md",
-    "Assets/Attachments/Waves-1749519251403.webp",
-    "Assets/Attachments/Waves-1749519213381.webp",
-    "Assets/Attachments/Waves-1749519209083.webp",
-    "Assets/Attachments/Waves-1749518442539.webp",
     "Science/Chemisty/Chemical equations/Chemical reactions.md",
     "Archives/Yearly study guide.md",
     "Archives/Subject selection.md",
@@ -218,9 +225,6 @@
     "Archives/Geography/Urban research task.md",
     "Archives/Geography/Public space crisis.md",
     "Archives/Geography/Environmental worldviews.md",
-    "Archives/Geography/Community health assessment.md",
-    "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
-    "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
     "English/Writing/Analytical sentence example.canvas",
@@ -229,10 +233,6 @@
     "Commerce/Law",
     "Science/Physics/Force and motion",
     "Science/Chemisty/Chemical equations",
-    "Assets/Attachments/Unstable nuclei-20240827145955816.webp",
-    "Assets/Attachments/The business cycle-1742711117819.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241014212133555 1.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241014212133555.webp",
     "Archives/History"
   ]
 }
