@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, June 11th 2025, 12:04:52 pm
-date modified: Wednesday, June 11th 2025, 10:11:23 pm
+date modified: Monday, June 16th 2025, 6:12:38 pm
 ---
 
 # Vietnam War Essay
@@ -29,4 +29,51 @@ As the war progressed, many Americans became increasingly distrustful of their g
 The civil rights movement of the 1960s emphasised social justice and equality, leading many activists to draw parallels between domestic struggles and the war in Vietnam. Prominent figures, including Martin Luther King Jr., spoke out against the war, arguing that it diverted resources from social programs aimed at fighting poverty and inequality at home. This connection helped unify various social movements against the war.
 ### International Solidarity
 The Vietnam war was viewed as part of a larger struggle against colonialism and imperialism. Many activists in the U.S. and around the world expressed solidarity with the Vietnamese people, seeing their fight as emblematic of oppressed peoples seeking self-determination. This global perspective fostered an international anti-war movement, with protests and demonstrations occurring in countries around the world.
-## Structure
+# Source Analysis
+In Part A you will be provided with a **selection of sources** representing perspectives on the Vietnam War. You will be tested on your ability to: 
+- Describe the **message** of a source. 
+- Explain the **perspective** (nature, origin, motive, audience) of a source on the Vietnam War. 
+- Make a judgement about the **value** of a source in understanding why people came to oppose the Vietnam War.  
+Please refer to the following list of questions you should ask of sources:
+- **Message** (What is the source about? What is it trying to say?)
+- **Perspective** (What is the **nature** of a source – what kind of source is it? What is the **origin** of the source – when/where was it made? Who are the intended **audiences** of the source – who was it made for? What are the **motives** of the source’s creators – why did they make it? Overall, what viewpoint does it provide on the Vietnam War?)
+- **Value** (How relevant or helpful is the source in providing information about why people came to oppose the Vietnam War? In what ways can it be useful? In what ways is its usefulness limited?)
+# Draft
+- Using at least one source from the source booklet and your own knowledge, assess the reasons why people came to oppose the Vietnam War.
+## Introduction
+**Thesis statement**:
+- Connect to the wording of the question
+- Outline of arguments 1 and 2 (the main ideas of your two paragraphs)
+- Include an overarching assessment: You should make a judgement about which reasons had the **biggest or most significance** in causing people to oppose the Vietnam War.
+Background to topic:
+Brief outline of context (e.g. name of event, time period or date, key concepts)
+## Paragraph 1
+**Topic sentence**:
+- Outline argument 1 (first key reason which had a big impact or was significant in causing people to oppose the Vietnam War)
+- Include an overarching assessment (judgement about how big or significant it was as a cause)
+- Connect to the wording of the question
+**Explanation**: Argument/Point
+- Provide a generalisation
+- Explain the key ideas supported by facts
+**Evidence (from one source from the source booklet)**:
+1. Identify the source chosen from the source booklet e.g. As shown in Source A… As stated in Source A…Source A reveals…It can be inferred through Source A…
+2. Describe the context of the evidence
+3. Describe the evidence e.g. brief quote, paraphrased views, statistics, artefact
+4. Analyse the meaning
+5. Connect the analysis back to the argument
+**Evidence from other sources**:
+- This is your own knowledge (e.g. class work, other research): Use steps 2-5 above
+**Link** - Sum up key ideas/assessment
+- Connect to the next paragraph
+- Connect to the wording of the question
+## Paragraph 2
+**Topic sentence**:
+- Outline Argument 2 (second key reason why people came to oppose the Vietnam War)
+- Include an overarching assessment (judgement about how big or significant it was as a cause)
+- Connect to the wording of the question
+**Explanation**: (See paragraph 1 above)
+**Evidence**: (See paragraph 1 above)
+**Evidence from other sources**:
+- This is your own knowledge: Use the steps 2-5 from paragraph 1 above
+**Link** - Sum up key ideas/assessment
+- Connect to the wording of the question

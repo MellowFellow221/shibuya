@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Compound interest"
             }
+          },
+          {
+            "id": "8b012e884294896f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archives/History/Vietnam war essay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vietnam war essay"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/Compound interest.md",
+                "file": "Archives/History/Vietnam war essay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Compound interest"
+              "title": "Outline of Vietnam war essay"
             }
           },
           {
@@ -207,12 +232,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71f960809ca3420d",
+  "active": "8b012e884294896f",
   "lastOpenFiles": [
+    "Archives/Subject selection.md",
+    "Archives/Source.md",
+    "Archives/History/Vietnam war essay.md",
+    "Archives/Compound interest.md",
     "Assets/Attachments/Pasted image 20240731114458.webp",
     "Assets/Attachments/Pasted image 20240731114132.webp",
     "conflict-files-obsidian-git.md",
-    "Archives/Compound interest.md",
     "Archives/Simple interest.md",
     "Archives/Application for peer support.md",
     "Archives/Yearly study guide.md",
@@ -241,10 +269,8 @@
     "English/Shakesphere/Shakespearean comparative study.md",
     "Archives/History/Rise of the Nazi party.md",
     "Timestamps/2025/2025-06-11.md",
-    "Archives/History/Vietnam war essay.md",
     "Timestamps/2025/2025-06-10.md",
     "Science/Chemisty/Chemical equations/Chemical reactions.md",
-    "Archives/Subject selection.md",
     "Archives/Strive video script.md",
     "Archives/History/Medics/Types of injuries in war.md",
     "Archives/History/Medics/Medic mindmap.canvas",
