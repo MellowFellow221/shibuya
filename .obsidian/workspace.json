@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "70156f60c775de33",
+        "id": "4baae9197f7dbb62",
         "type": "tabs",
         "children": [
           {
-            "id": "aa3f66cc1e65a47f",
+            "id": "df56b97f45cb5802",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Archives/History/Vietnam war essay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vietnam war essay"
             }
           }
         ]
@@ -144,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Archives/History/Vietnam war essay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vietnam war essay"
             }
           },
           {
@@ -182,8 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa3f66cc1e65a47f",
+  "active": "df56b97f45cb5802",
   "lastOpenFiles": [
+    "Archives/History/Rise of the Nazi party.md",
+    "Timestamps/2025/2025-06-16.md",
     "Archives/History/Vietnam war essay.md",
     "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/00-Weekly/2025-W18.md",
@@ -197,7 +214,6 @@
     "Timestamps/2025/00-Weekly/2025-W20.md",
     "Timestamps/2025/00-Weekly/2025-W19.md",
     "Timestamps/2025/00-Weekly/2025-W24.md",
-    "Timestamps/2025/2025-06-16.md",
     "Timestamps/2025/2025-06-15.md",
     "Timestamps/2025/2025-06-14.md",
     "Science/Physics/Force and motion/Sound.md",
@@ -213,7 +229,6 @@
     "Science/Physics",
     "Science/Biology",
     "Science/Physics/Kinematics",
-    "Timestamps/2025/2025-06-12.md",
     "Assets/Attachments/Waves-1749519251403.webp",
     "Assets/Attachments/Waves-1749519213381.webp",
     "Assets/Attachments/Waves-1749519209083.webp",
