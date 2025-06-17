@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e64c2de9319b1b",
+        "id": "70156f60c775de33",
         "type": "tabs",
         "children": [
           {
-            "id": "45e711c07cc6c20f",
+            "id": "aa3f66cc1e65a47f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,8 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45e711c07cc6c20f",
+  "active": "aa3f66cc1e65a47f",
   "lastOpenFiles": [
+    "Archives/History/Vietnam war essay.md",
+    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/00-Weekly/2025-W18.md",
     "Timestamps/2025/00-Weekly/2025-W17.md",
     "Timestamps/2025/00-Weekly/2025-W16.md",
@@ -201,7 +203,6 @@
     "Science/Physics/Force and motion/Sound.md",
     "Science/Physics/Force and motion/Newton's laws.md",
     "Science/Physics/Force and motion/Light.md",
-    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/2025-06-13.md",
     "Archives/Compound interest.md",
     "Archives/Application for peer support.md",
@@ -213,7 +214,6 @@
     "Science/Biology",
     "Science/Physics/Kinematics",
     "Timestamps/2025/2025-06-12.md",
-    "English/Shakesphere/Ides of March.md",
     "Assets/Attachments/Waves-1749519251403.webp",
     "Assets/Attachments/Waves-1749519213381.webp",
     "Assets/Attachments/Waves-1749519209083.webp",

@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, June 11th 2025, 12:04:52 pm
-date modified: Monday, June 16th 2025, 6:12:38 pm
+date modified: Tuesday, June 17th 2025, 4:43:55 pm
 ---
 
 # Vietnam War Essay
@@ -30,13 +30,13 @@ The civil rights movement of the 1960s emphasised social justice and equality, l
 ### International Solidarity
 The Vietnam war was viewed as part of a larger struggle against colonialism and imperialism. Many activists in the U.S. and around the world expressed solidarity with the Vietnamese people, seeing their fight as emblematic of oppressed peoples seeking self-determination. This global perspective fostered an international anti-war movement, with protests and demonstrations occurring in countries around the world.
 # Source Analysis
-In Part A you will be provided with a **selection of sources** representing perspectives on the Vietnam War. You will be tested on your ability to: 
-- Describe the **message** of a source. 
-- Explain the **perspective** (nature, origin, motive, audience) of a source on the Vietnam War. 
-- Make a judgement about the **value** of a source in understanding why people came to oppose the Vietnam War.  
+In Part A you will be provided with a **selection of sources** representing perspectives on the Vietnam War. You will be tested on your ability to:
+- Describe the **message** of a source.
+- Explain the **perspective** (nature, origin, motive, audience) of a source on the Vietnam War.
+- Make a judgement about the **value** of a source in understanding why people came to oppose the Vietnam War.
 Please refer to the following list of questions you should ask of sources:
 - **Message** (What is the source about? What is it trying to say?)
-- **Perspective** (What is the **nature** of a source – what kind of source is it? What is the **origin** of the source – when/where was it made? Who are the intended **audiences** of the source – who was it made for? What are the **motives** of the source’s creators – why did they make it? Overall, what viewpoint does it provide on the Vietnam War?)
+- **Perspective** (What is the **nature** of a source – what kind of source is it? What is the **origin** of the source – when/where was it made? Who are the intended **audiences** of the source – who was it made for? What are the **motives** of the source's creators – why did they make it? Overall, what viewpoint does it provide on the Vietnam War?)
 - **Value** (How relevant or helpful is the source in providing information about why people came to oppose the Vietnam War? In what ways can it be useful? In what ways is its usefulness limited?)
 # Draft
 - Using at least one source from the source booklet and your own knowledge, assess the reasons why people came to oppose the Vietnam War.
@@ -77,3 +77,14 @@ Brief outline of context (e.g. name of event, time period or date, key concepts)
 - This is your own knowledge: Use the steps 2-5 from paragraph 1 above
 **Link** - Sum up key ideas/assessment
 - Connect to the wording of the question
+History Draft
+
+Public opposition to Australia's involvement in the Vietnam War stemmed from several key factors, most notably conscription and the graphic exposure of the war's brutality through uncensored media coverage. As the first war to be broadcast directly into people's homes, it revealed the horrific realities of combat, undermining public support. Simultaneously, the introduction of conscription, particularly its perceived unfairness and the immorality of forcing individuals to war, provoked widespread protests from the public to protect not just individuals, but society as a whole. Together, these factors played a central role in shaping the general public's growing disapproval of the war.
+
+Focus on the variety of groups of people against conscription for a variety of reasons rather than limiting yourself to ONLY the save our sons stuff.
+
+Additionally, the war being fully uncensored unveiled the horrific nature of war to the average civilian, being another profound reason in the public's disapproval of the engagements within Vietnam. The unrestricted footage and media made some question the morality of this brutal conflict and why their country was even involved at all. The ideas surrounding the reasons of the Australian involvement in Vietnam, such as the idea of containment and the Domino Theory didn't feel personal, and didn't justify sacrificing soldiers thousands of kilometers away from their home soil. <source about protest>. Furthermore, the valor and glory traditionally associated with war were stripped away by these confronting images, which exposed the true and brutal reality of combat. Instead of being celebrated as heroes, soldiers were increasingly criticized by the public, who began to focus more on the violence of their actions than on their role as fighters. <source about either brutality or criticising soldiers>. This growing immorality further condemned the war and even manipulated fighters in questioning if they were in the right. Therefore showing the impact the new media censorship had on shaping, and fueling the public's protest against Australia's involvement in the Vietnam war.
+
+One of the major reasons for opposition to the Vietnam conflict was conscription, driven not only by general hatred toward it, but also by a sense of unfairness and the belief that Australians were being forced to fight someone else's war, which remained immoral in many people's hearts. Conscription was a system introduced to draft capable bodied men into war by force, often by ballots containing birthdays. Many opposed this idea, some claiming it to be unfair and unrighteous, forcing people into a war they did not want to fight. Parents of sons were shattered knowing their beloved ones were being sent to the frontlines without any way of fighting back. <source about protest or sad parents> The public felt powerless against the decisions made. Although it was capable of acquiring an exemption, it was increasingly difficult, with specific categories and circumstances more accessible to the wealthy, such as university students, adding to the unfairness of conscription. A significant portion of the drafted even went as far as harming themselves to exempt themselves from military service. Furthermore, Australians questioned the legitimacy of forcing troops overseas to fight in what they saw as a foreign conflict unrelated to national defense, adding on to the growing disapproval of conscription and the Vietnam conflict as a whole. The public believed this conflict mainly served the interests of other superpowers such as the USA, rather than protecting their own borders. As a result, the war began to seem meaningless, unworth conscripting men to fight in. This sense of detachment from the cause intensified public frustration, especially as young men were expected to risk their lives for a war that had no clear justification at home. As this mentality spread, it added to the growing disapproval of conscription and the Vietnam conflict. Ultimately, due to the many different reasons, blooming negative reactions towards conscription, such as the unfairness and immorality of dying in someone else's war played a huge role in the public's shift in perspective towards the Vietnam war.
+
+Again good, but just quickly you might want to reference a historical violent image or smth as example of what people were exposed to. Not necessary but could strengthen your argument, just mention it briefly or smth if you do. Could put it after the unrestricted footage and media
