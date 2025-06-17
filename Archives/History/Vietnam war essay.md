@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, June 11th 2025, 12:04:52 pm
-date modified: Tuesday, June 17th 2025, 5:35:03 pm
+date modified: Tuesday, June 17th 2025, 5:54:20 pm
 ---
 
 # Vietnam War Essay
@@ -40,7 +40,11 @@ Please refer to the following list of questions you should ask of sources:
 - **Value** (How relevant or helpful is the source in providing information about why people came to oppose the Vietnam War? In what ways can it be useful? In what ways is its usefulness limited?)
 # Draft
 - Using at least one source from the source booklet and your own knowledge, assess the reasons why people came to oppose the Vietnam War.
-Australians came to oppose the Vietnam War for a range of reasons, but the two most significant were the introduction of conscription and growing moral and ethical concerns about the nature of the war.
+Australians came to oppose the Vietnam War for a range of reasons, but the two most significant were the introduction of conscription and growing moral and ethical concerns about the nature of the war. The use of a lottery system to forcibly enlist young men into service caused widespread resentment and protest, particularly among families and youth. At the same time, many Australians began to question whether the war itself was just, especially as media reports revealed civilian suffering and controversial tactics. Overall, while moral objections grew stronger over time, it was conscription that most directly mobilised Australians into active opposition.
+
+One of the key reasons Australians came to oppose the Vietnam Was was the introduction of conscription, which forced young men to fight in a war many did not support. This had a significant impact, as it affected everyday families and led to widespread protest. ==As show in Source A Idk something about anti-conscription, reflected the emotional and personal nature of the opposition== Under the National Service Scheme, introduced in 1964, 20-year-old men were selected by a birth date lottery to serve in the military. This system was seen as unfair, especially because wealthier individuals could often avoid service through deferments. Large-scale protests, including the Moratorium marches in 1970 and 1971, were directly influenced by public anger at conscription. The fact that these protests attracted tens of thousands of Australians shows how deeply the issue affected society. Many saw it as unacceptable to force citizens into a controversial and deadly conflict, making conscription a powerful and unifying reason for Australians to oppose the war. 
+
+I addition to opposing conscription, many Australians also came to reject the Vietnam War on moral and ethical ground. As more information became available, the war was increasing viewed as unjust, unnecessary, and harmful to innocent people. Graphic media coverage, including images of civilian casualties, incidents, and napalm attacks like the photo of napalm girl ==(might be a source ngl)==, deeply disturbed the Australian public. People began to question the legitimacy of Australia's involvement, especially since the war was seen as an internal conflict in Vietnam, not a direct threat to Australia. Moral arguments were also raised by churches, unions, and students, who believed the war went against Australian values. For example, Christian groups often spoke out against the suffering inflicted on Vietnamese civilians. These ethical objections grew stronger as the war dragged on,with no clear outcome. While conscription sparked the initial wave of opposition, moral concerns gave the anti-war movement depth and longevity, convincing many Australians that the war was fundamentally wrong.
 ## Introduction
 **Thesis statement**:
 - Connect to the wording of the question
