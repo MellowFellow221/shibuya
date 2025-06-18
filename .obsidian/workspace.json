@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c85125847eb36a82",
+        "id": "f6ed21a5731d7245",
         "type": "tabs",
         "children": [
           {
-            "id": "6449318946a70f35",
+            "id": "edc67fd6315142e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Archives/History/Vietnam war essay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vietnam war essay"
             }
           }
         ]
@@ -154,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Archives/History/Vietnam war essay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vietnam war essay"
             }
           },
           {
@@ -192,8 +207,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71f960809ca3420d",
+  "active": "edc67fd6315142e7",
   "lastOpenFiles": [
+    "Timestamps/2025/2025-06-18.md",
     "Archives/History/Vietnam war essay.md",
     "Timestamps/Assessment mark + weight.md",
     "Archives/Compound interest.md",
@@ -219,7 +235,6 @@
     "Science/Physics/Force and motion/Sound.md",
     "Science/Physics/Force and motion/Newton's laws.md",
     "Science/Physics/Force and motion/Light.md",
-    "Timestamps/2025/2025-06-13.md",
     "Science/Chemisty",
     "Science/Physics",
     "Science/Biology",
