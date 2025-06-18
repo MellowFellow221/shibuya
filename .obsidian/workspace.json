@@ -131,6 +131,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "c148ee9169d3bfb2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ]
       },
@@ -182,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6449318946a70f35",
+  "active": "71f960809ca3420d",
   "lastOpenFiles": [
     "Archives/History/Vietnam war essay.md",
     "Timestamps/Assessment mark + weight.md",
