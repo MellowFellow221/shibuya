@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c76104b9b1dc7721",
+        "id": "c85125847eb36a82",
         "type": "tabs",
         "children": [
           {
-            "id": "a10e8f22bbbc3ca4",
+            "id": "6449318946a70f35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archives/History/Vietnam war essay.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vietnam war essay"
+              "title": "New tab"
             }
           }
         ]
@@ -158,13 +144,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/History/Vietnam war essay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vietnam war essay"
+              "title": "Outline"
             }
           },
           {
@@ -197,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12c9350fffdb3a21",
+  "active": "6449318946a70f35",
   "lastOpenFiles": [
-    "Archives/Compound interest.md",
     "Archives/History/Vietnam war essay.md",
+    "Timestamps/Assessment mark + weight.md",
+    "Archives/Compound interest.md",
     "Archives/Simple interest.md",
     "Archives/Strive video script.md",
     "Timestamps/2025/2025-06-17.md",
     "conflict-files-obsidian-git.md",
     "Archives/History/Rise of the Nazi party.md",
     "Timestamps/2025/2025-06-16.md",
-    "Timestamps/Assessment mark + weight.md",
     "Timestamps/2025/00-Weekly/2025-W18.md",
     "Timestamps/2025/00-Weekly/2025-W17.md",
     "Timestamps/2025/00-Weekly/2025-W16.md",
@@ -241,7 +226,7 @@
     "English/Writing/Analytical sentence example.canvas",
     "English/Shining a new (stage) light/Analytical sentence example.canvas",
     "English/My story/Issues affecting youth!.canvas",
-    "Timestamps/Commerce/Law",
+    "Commerce/Law",
     "Science/Physics/Force and motion",
     "Science/Chemisty/Chemical equations",
     "Assets/Attachments/Unstable nuclei-20240827145955816.webp",
