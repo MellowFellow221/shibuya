@@ -1,11 +1,11 @@
 ---
 date created: Sunday, June 1st 2025, 2:00:07 pm
-date modified: Sunday, June 1st 2025, 2:32:52 pm
+date modified: Thursday, June 19th 2025, 2:59:11 pm
 ---
 
 # WW1 Practice Test
-![[Pasted image 20240523042451.webp]]
-![[Pasted image 20240523042608.webp]]
+![[WW1 Practice test-1750309139213.webp]]
+![[WW1 Practice test-1750309146151.webp]]
 
 1. Message (What is the source about?)
 The source is an enlistment poster which conveys a message of worry. This worry is about German imperialism during WW1 and Australia's thoughts on it. The poster gives a question and solution "Must it come to this? Enlist!" concerning readers about their possible future if Germany wins the war or gains any land before providing the solution which would be to enlist in the army now.

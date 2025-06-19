@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ed21a5731d7245",
+        "id": "9c72480bed050c56",
         "type": "tabs",
         "children": [
           {
-            "id": "edc67fd6315142e7",
+            "id": "ebce9942105d4fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archives/History/Vietnam war essay.md",
+                "file": "Archives/Compound interest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vietnam war essay"
+              "title": "Compound interest"
             }
           }
         ]
@@ -168,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/History/Vietnam war essay.md",
+                "file": "Archives/Compound interest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vietnam war essay"
+              "title": "Outline of Compound interest"
             }
           },
           {
@@ -207,46 +207,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edc67fd6315142e7",
+  "active": "ebce9942105d4fce",
   "lastOpenFiles": [
-    "English/Shakesphere/Shakespearean comparative study.md",
-    "English/Writing/The book thief.md",
-    "English/Shakesphere/Shakespeare retold.md",
-    "English/Shakesphere/Macbeth.md",
-    "English/Writing/Tales from the Arabian Nights.md",
-    "English/Meta/Essay structure.md",
-    "English/Writing/Analytical sentence example.canvas",
-    "English/Writing/Pixar in a Box.md",
-    "English/Writing/Writing a memoir.md",
-    "English/Writing/What makes us human.md",
-    "English/Writing/To draw a home.md",
-    "English/Shakesphere/Ides of March.md",
-    "Archives/History/Vietnam war essay.md",
-    "Timestamps/2025/2025-06-18.md",
-    "Timestamps/Assessment mark + weight.md",
-    "Archives/Compound interest.md",
-    "Archives/Simple interest.md",
-    "Archives/Strive video script.md",
-    "Timestamps/2025/2025-06-17.md",
-    "conflict-files-obsidian-git.md",
+    "Science/Physics/Force and motion/Newton's laws.md",
+    "Science/Physics/Force and motion/Light.md",
+    "Science/Physics/Force and motion/Kinematics.md",
+    "Assets/Attachments/Pasted image 20240528115637.webp",
+    "Assets/Attachments/Pasted image 20240528114941.webp",
+    "Assets/Attachments/Pasted image 20240523042608.webp",
+    "Assets/Attachments/Pasted image 20240523042451.webp",
+    "Assets/Attachments/Phosphorus Cycle-20241212095127066.webp",
+    "Commerce/Advertising/Situation analysis.md",
+    "Assets/Attachments/Situation analysis-1750309245050.webp",
+    "Assets/Attachments/Situation analysis-1750309239332.webp",
+    "Commerce/Advertising/Product promotion strategies.md",
+    "Commerce/Advertising/Market segmentation and target markets.md",
+    "Commerce/Advertising/Differentiating products.md",
+    "Commerce/Business/Running a business.md",
+    "Commerce/Business/Legal structure.md",
+    "Commerce/Business/Create a business.md",
+    "Commerce/Business/Business creation assessment.md",
+    "Commerce/Finance/Circular flow of the economy.md",
+    "Commerce/Finance/Keeping financial records.md",
+    "Commerce/Finance/Organizing finance.md",
+    "Archives/History/Medics/WW1 Practice test.md",
+    "Assets/Attachments/WW1 Practice test-1750309146151.webp",
+    "Assets/Attachments/WW1 Practice test-1750309139213.webp",
+    "Archives/History/Medics/WW1 Medic.md",
+    "Archives/History/Medics/Types of injuries in war.md",
+    "Archives/History/Medics/Medics managing the casualties.md",
+    "Archives/History/Medics/Medic mindmap.canvas",
     "Archives/History/Rise of the Nazi party.md",
-    "Timestamps/2025/2025-06-16.md",
-    "Timestamps/2025/00-Weekly/2025-W18.md",
-    "Timestamps/2025/00-Weekly/2025-W17.md",
-    "Timestamps/2025/00-Weekly/2025-W16.md",
-    "Timestamps/2025/00-Weekly/2025-W15.md",
-    "Timestamps/2025/00-Weekly/2025-W14.md",
+    "Assets/Attachments/Pasted Image 20240613095507_929.webp",
+    "Science/Chemisty/Periodic Table/Unstable nuclei.md",
+    "Science/Chemisty/Periodic Table/Radioactivity.md",
+    "Science/Chemisty/Periodic Table/Periodic Trends.md",
+    "Science/Chemisty/Periodic Table/Periodic research task.md",
+    "Science/Chemisty/Periodic Table/History of the periodic table.md",
+    "Science/Chemisty/Periodic Table/Half life.md",
+    "Science/Chemisty/Periodic Table/Chemical reactions.md",
+    "English/Writing/Analytical sentence example.canvas",
     "Science/Chemisty",
     "Science/Physics",
     "Science/Biology",
     "Science/Physics/Kinematics",
-    "Assets/Attachments/Waves-1749519251403.webp",
-    "Assets/Attachments/Waves-1749519213381.webp",
-    "Assets/Attachments/Waves-1749519209083.webp",
-    "Assets/Attachments/Waves-1749518442539.webp",
-    "Archives/History/Medics/Medic mindmap.canvas",
-    "Assets/Attachments/Single Displacement reactions-1742601130855.webp",
-    "Assets/Attachments/Light-1749098025940.webp",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
     "English/Shining a new (stage) light/Analytical sentence example.canvas",
@@ -254,10 +258,6 @@
     "Commerce/Law",
     "Science/Physics/Force and motion",
     "Science/Chemisty/Chemical equations",
-    "Assets/Attachments/Unstable nuclei-20240827145955816.webp",
-    "Assets/Attachments/The business cycle-1742711117819.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241014212133555 1.webp",
-    "Assets/Attachments/Tales from the Arabian Nights-20241014212133555.webp",
     "Archives/History"
   ]
 }
