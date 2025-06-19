@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "544de3326e4983b4",
+        "id": "2c051b9d93540493",
         "type": "tabs",
         "children": [
           {
-            "id": "c85c6eb53f7d31eb",
+            "id": "34cb68489f31c80a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Archives/History/Vietnam war essay.md",
-                "bFile": "Archives/History/Vietnam war essay.md",
-                "aRef": ""
+                "file": "Archives/History/Vietnam war essay.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Vietnam war essay"
+              "icon": "lucide-file",
+              "title": "Vietnam war essay"
             }
           }
         ]
@@ -159,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Archives/History/Vietnam war essay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vietnam war essay"
             }
           },
           {
@@ -197,9 +208,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b923670f8756821",
+  "active": "34cb68489f31c80a",
   "lastOpenFiles": [
     "Archives/History/Vietnam war essay.md",
+    "Assets/Attachments/Phosphorus Cycle-20241212095044264.webp",
+    "Assets/Attachments/Pasted image 20240731114458.webp",
+    "Assets/Attachments/Precipitation reactions-1742432625903.webp",
+    "Assets/Attachments/Pasted image 20240606115232.webp",
+    "Assets/Attachments/Pasted image 20240523042608.webp",
+    "Assets/Attachments/Pasted image 20240516101510.webp",
     "Archives/History/Rise of the Nazi party.md",
     "conflict-files-obsidian-git.md",
     "Science/Physics/Force and motion/Kinematics.md",
@@ -209,17 +226,11 @@
     "Archives/Compound interest.md",
     "Archives/Subject selection.md",
     "Archives/Source.md",
-    "Assets/Attachments/Pasted image 20240731114458.webp",
     "Assets/Attachments/Pasted image 20240731114132.webp",
     "Archives/Simple interest.md",
     "Archives/Application for peer support.md",
     "Archives/Yearly study guide.md",
     "Science/Physics/Force and motion/Newton's laws.md",
-    "Assets/Attachments/Pasted image 20240516101510.webp",
-    "Assets/Attachments/Pasted image 20240516101551.webp",
-    "Assets/Attachments/Pasted image 20240523042451.webp",
-    "Assets/Attachments/Motion and waves-1748486403109.webp",
-    "Assets/Attachments/Motion and waves-1748485128562.webp",
     "Science/Physics/Force and motion/Waves.md",
     "Science/Physics/Force and motion/Sound.md",
     "Science/Physics/Force and motion/Light.md",
