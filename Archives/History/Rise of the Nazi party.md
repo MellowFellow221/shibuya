@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, March 12th 2025, 12:02:41 pm
-date modified: Tuesday, March 25th 2025, 8:36:57 pm
+date modified: Thursday, June 19th 2025, 7:16:38 pm
 ---
 
 # Rise of the Nazi Party
@@ -16,7 +16,7 @@ Violence became a common aspect of politics after WW1. The *Sturmabteilung*, aka
 ## Attitude of Elites toward Hitler
 President Paul von Hindenburg and other high-ranking politicians decided to appoint Hitler as Chancellor in 1933, hoping to use him as a puppet.
 # Teel Paragraph
-The Nazi Party was a German political party that came to power in 1933 and was ruled by Adolf Hitler. Their rise to power can be attributed to two main factors: the weaknesses of the Weimar republic and the Nazi's performance in elections.
+The Nazi Party was a German political party that came to power in 1933 and was ruled by Adolf Hitler. Their rise to power can be attributed to two main factors: the weaknesses of the Weimar republic and the Nazi's performance in elections. Before the beer hall putsch, Hitler was becoming a much more respected and popular figure.
 
 The Weimar republic was the democratic system Germany had in place before the Nazi's came into power. This republic had some major weaknesses that helped the Nazi's come into power. For example the excess number of individual parties within the democracy caused maintaining the democracy and making decisions difficult, as with no majorities the Weimar republic was indecisive and unstable. Unable to make changes to keep up with the pace Germany was worsening after the first world war the German public began to question and doubt the governing capacity of the republic and would've been looking to an alternative that could quickly and decisively bring positive changes to all of Germany. Promising radical change the Nazi's were able to take advantage of these weaknesses and instability allowing the Nazi party to rise faster than they would have otherwise been able to. These weaknesses in the Weimar republic created the want or even need for a new governing system which helped the Nazi's rise as they promised to be this new radical overhaul to the government.
 
