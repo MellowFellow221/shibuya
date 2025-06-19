@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12fd638ac062d80a",
+            "id": "c85c6eb53f7d31eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Archives/History/Vietnam war essay.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Archives/History/Vietnam war essay.md",
+                "bFile": "Archives/History/Vietnam war essay.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Vietnam war essay"
+              "icon": "diff",
+              "title": "Diff: Vietnam war essay"
             }
           }
         ]
@@ -156,7 +146,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5331e11e73faec08",
@@ -168,13 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archives/History/Vietnam war essay.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vietnam war essay"
+              "title": "Outline"
             }
           },
           {
@@ -207,15 +197,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12fd638ac062d80a",
+  "active": "6b923670f8756821",
   "lastOpenFiles": [
-    "Archives/Compound interest.md",
     "Archives/History/Vietnam war essay.md",
+    "Archives/History/Rise of the Nazi party.md",
+    "conflict-files-obsidian-git.md",
+    "Science/Physics/Force and motion/Kinematics.md",
+    "Assets/Attachments/WW1 Practice test-1750309146151.webp",
+    "Assets/Attachments/WW1 Practice test-1750309139213.webp",
+    "Assets/Attachments/Situation analysis-1750309245050.webp",
+    "Archives/Compound interest.md",
     "Archives/Subject selection.md",
     "Archives/Source.md",
     "Assets/Attachments/Pasted image 20240731114458.webp",
     "Assets/Attachments/Pasted image 20240731114132.webp",
-    "conflict-files-obsidian-git.md",
     "Archives/Simple interest.md",
     "Archives/Application for peer support.md",
     "Archives/Yearly study guide.md",
@@ -225,11 +220,7 @@
     "Assets/Attachments/Pasted image 20240523042451.webp",
     "Assets/Attachments/Motion and waves-1748486403109.webp",
     "Assets/Attachments/Motion and waves-1748485128562.webp",
-    "Assets/Attachments/Motion and waves-1748484604688.webp",
-    "Assets/Attachments/Motion and waves-1747888977967.webp",
-    "Assets/Attachments/Motion and waves-1747888317561.webp",
     "Science/Physics/Force and motion/Waves.md",
-    "Science/Physics/Force and motion/Kinematics.md",
     "Science/Physics/Force and motion/Sound.md",
     "Science/Physics/Force and motion/Light.md",
     "Science/Chemisty",
@@ -242,14 +233,12 @@
     "English/Shakesphere/Macbeth.md",
     "English/Shakesphere/Shakespeare retold.md",
     "English/Shakesphere/Shakespearean comparative study.md",
-    "Archives/History/Rise of the Nazi party.md",
     "Timestamps/2025/2025-06-11.md",
     "Timestamps/2025/2025-06-10.md",
     "Science/Chemisty/Chemical equations/Chemical reactions.md",
     "Archives/Strive video script.md",
     "Archives/History/Medics/Types of injuries in war.md",
     "Archives/History/Medics/Medic mindmap.canvas",
-    "Archives/Geography/Urban research task.md",
     "Timestamps/2025/06-June",
     "Timestamps/2025/05-May",
     "English/Writing/Analytical sentence example.canvas",

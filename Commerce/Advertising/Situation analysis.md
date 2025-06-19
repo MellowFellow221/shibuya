@@ -1,6 +1,6 @@
 ---
 date created: Friday, March 21st 2025, 4:36:39 pm
-date modified: Monday, June 2nd 2025, 4:15:59 pm
+date modified: Thursday, June 19th 2025, 3:00:50 pm
 ---
 
 # Situation Analysis (SWOT)
@@ -10,5 +10,5 @@ The business should examine the market situation and look at any factors that ar
 - **Opportunities** - what is occurring outside the business that can improve the business' success Eg. new technologies, increase in international trade
 - **Threats** - what can have a negative impact on the business that they have limited control over Eg. economic downturn, new competitors, new laws.
 
-![[Pasted image 20240528114941.webp]]
-![[Pasted image 20240528115637.webp]]
+![[Situation analysis-1750309239332.webp]]
+![[Situation analysis-1750309245050.webp]]
