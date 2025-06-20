@@ -1,6 +1,6 @@
 ---
 date created: Thursday, June 12th 2025, 9:52:08 am
-date modified: Thursday, June 19th 2025, 12:06:17 pm
+date modified: Friday, June 20th 2025, 9:12:19 am
 ---
 
 # Shakespearean Comparative Study
@@ -11,5 +11,7 @@ date modified: Thursday, June 19th 2025, 12:06:17 pm
 - How do similarities and differences between texts reflect, challenge or subvert contextual values and concepts?
 - How are concepts adapted across context to represent new or shared ideas and values?
 **Probably the essay question**
-- Has your comparative study revealed more similarities between the ways the composers of your texts explore common concepts and ideas, or differences?
-Comparative studies between texts reveal the different ways composer's can explore common concepts and ideas. The comparative study between Macbeth and the Ides of March reveals more similarities than differences in the way each composer has explored shared concepts and ideas.
+- After Shakespeare died, his friend Ben Johnson said "He was not for an age, but for all time." Compare the texts you have studied in class to evaluate the enduring value of the themes they explore.
+In your response you must reference the SHAKESPEAREAN PLAY AND the FILM you have studied in class.
+In responding to the question, you will be expected to include supporting evidence such as: examples/quotes from both texts and analysis of relevant literary, theatrical, and cinematic techniques.
+

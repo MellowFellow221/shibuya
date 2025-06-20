@@ -1,6 +1,6 @@
 ---
 date created: Friday, March 28th 2025, 9:27:16 am
-date modified: Wednesday, April 2nd 2025, 3:50:08 pm
+date modified: Friday, June 20th 2025, 9:24:05 am
 ---
 
 # Essay Structure
@@ -61,7 +61,7 @@ Write employs **a technique** "blah blah blah" *to highlight* something about a 
 
 Abela utilises **the stage direction** "KING SHAHRAYAR uncertainly puts the crown back on his head and unsteadily sits on his throne" *to reveal* King Shahrayar's growing doubt about how he is behaving as ruler, ==suggesting== that Shahrazad's stories are changing him positively as a person, <span style="color:cba6f7">providing insight into</span> the power of story telling.
 
-![[English/Writing/Analytical sentence example.canvas|Analytical sentence example]]
+![[Analytical sentence example.canvas|Analytical sentence example]]
 
 # [[Themes and concepts]]
 - Storytelling
