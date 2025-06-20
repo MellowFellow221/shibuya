@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, June 11th 2025, 12:04:52 pm
-date modified: Friday, June 20th 2025, 9:34:02 am
+date modified: Friday, June 20th 2025, 1:35:17 pm
 ---
 
 # Vietnam War Essay
@@ -51,6 +51,12 @@ The Vietnam War was a war fought between a communist backed North Vietnam agains
 One of the key reasons Australians came to oppose the Vietnam War was the introduction of conscription, which forced young men to fight in a war many did not support. The 1964 National Service Scheme, used a random birth date lottery to enlist capable men, sparking public anger and protests across the country. As shown in source A, anti-conscription posters and rallies highlighted concerns about fairness especially for lower-income individuals who couldn't afford deferments. Many felt it was unjust to compel citizens to fight in a foreign conflict that did not directly threaten Australia. Large-scale protests, including the Moratorium marches in 1970 and 1971, were directly influenced by public anger at conscription. The fact that these protests attracted tens of thousands of Australians shows how deeply the issue affected society. Many saw it as unacceptable to force citizens into a controversial and deadly conflict, making conscription a powerful and unifying reason for Australians to oppose the war.
 
 In addition to opposing conscription, many Australians rejected the Vietnam War on moral and ethical grounds, believing it was an unjustified conflict that resulted in widespread suffering and had little to do with protecting Australian values. Media coverage played a crucial role in shaping these views. Graphic television footage and newspaper images showed the devastating impact of bombings and chemical weapons like napalm on Vietnamese civilians, including women and children. Photographs such as the terror of war or colloquially known as napalm girl, shocked Australians and led many to see the war as morally indefensible. Labour unions and some members of the Australian Labour Party opposed the war as well, arguing it served U.S. interest more than Australia's. Additionally, many Australians questioned whether their country should be involved at all. The domino theory, which claimed that communism would spread through Asia if not stopped in Vietnam, began to lose credibility as the war dragged on with no end in sight. Instead of seeing Australia as defending freedom, many came to view its involvement as blindly following American foreign policy. These ethical objections grew stronger as the war dragged on, with no clear outcome. While conscription sparked the initial wave of opposition, moral concerns gave the anti-war movement depth and longevity, convincing many Australians that the war was fundamentally wrong.
+
+- Vietnam War 1955-1975
+- 1964 National Service Scheme, birthdate lottery
+- Moratorium marches 1970 and 1971, tens of thousands to protest
+- The terror of war or colloquially know as napalm girl
+- Labour unions and Australian Labour Party argued it served US interest more than Australia's
 
 ## Introduction
 **Thesis statement**:
